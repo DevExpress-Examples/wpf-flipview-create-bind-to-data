@@ -26,7 +26,7 @@ This example demonstrates how to create a [WPF FlipView](https://docs.devexpress
 
 * [Windows Modern UI](https://docs.devexpress.com/WPF/15018/controls-and-libraries/windows-modern-ui)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-flipview-create-bind-to-data&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-flipview-create-bind-to-data&~~~was_helpful=no)
 
